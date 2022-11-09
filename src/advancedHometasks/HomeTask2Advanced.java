@@ -101,15 +101,3 @@ public class HomeTask2Advanced {
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
