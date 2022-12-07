@@ -170,31 +170,5 @@ public class HomeTask5Advanced {
         System.out.println("Count sheeps: " + countingSheep(5));
         printLine();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
-
-
-
-
-
 }
