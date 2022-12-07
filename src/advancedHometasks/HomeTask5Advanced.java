@@ -27,7 +27,8 @@ public class HomeTask5Advanced {
 
 //        Task 2:
         public static int doubleInteger(int i) {
-            return i * 2;
+
+        return i * 2;
         }
 
         //Task 3
